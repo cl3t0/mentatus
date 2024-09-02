@@ -1,10 +1,10 @@
-# Cletron
+# Mentatus
 
 It's a human-like bot. It can think, search, learn, answer, remember, and forget. 
 
 Disclaimers:
-1. The bot is completely trained on Brazilian Portuguese language. The entire method is described here. Feel free to retrain it for your own language.
-2. It's a WIP project. Currently the bot doesn't even exist.
+1. The bot will be completely trained on Brazilian Portuguese language. The entire method will be described here. Feel free to retrain it for your own language.
+2. It's a WIP project. For now there's only specifications. Currently, the bot doesn't even exist.
 3. Some features will not be implemented on 1.0. If that's the case, there will be a warning.
 
 ## How it works?
